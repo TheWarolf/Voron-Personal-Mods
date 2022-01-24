@@ -16,7 +16,7 @@ Bridging near the hotend fan mount is not critical, nothing is mating to that su
 - Check for filament path. If path is not clear, use a 2mm drill bit to clear it out.
 - Slide the ball into the slot fully. Before proceding further, check that the ball can move freely back and forth when inserting/removing a piece of filament into the filament path.
 If that's not the case you can try to slightly enlarge the ball slot with a small, pointy tool (like an allen key) or file.
-If this is still not enough, try printing the housing with lower EM.
+If this is still not enough, try to print the housing with lower EM.
 - Cut or bend the switch NC pin (opposite to the lever hinge) and slide in the switch in the slot. Secure it with a M2 screw, but **be gentle while screwing, as there's an high risk of splitting the part if layer adhesion is not optimal**. 
 Do not fully tighten the switch, it needs to be firm but able to slightly pivot around the screw.
 - Screw the other M2 from the front. 
