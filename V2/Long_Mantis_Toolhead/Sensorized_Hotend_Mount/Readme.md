@@ -1,6 +1,7 @@
 This is an attempt to add a filament sensor between extruder gears and hotend for Mantis toolhead.
 
-User needs to print and replace just the hotend mount piece, the rest of toolhead assembly is done following original procedure shown in Mantis [repo](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015).
+User needs to print and replace just the Hotend_Mount piece, the rest of toolhead assembly is done following original procedure shown in Mantis [repo](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015).
+Currently just the Dragon one is available, as it's the only hotend I currently own. Feel free to grab the CAD and adapt the mod to other tools.
 
 ## BOM
 - 1 microswitch (quality shouldn't matter much, I'm using with success a cheapo one from a no name Amazon pack, use what you have).
