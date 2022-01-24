@@ -10,7 +10,7 @@ This is a rework of Mantis toolhead to use LGX Lite extruder.
 - *LGX_strain_relief_threaded.stl* or *LGX_strain_relief_smooth.stl*
 
 ## Streamlined assembly instructions
-- assembly *LGX_carriage*, std *Hotend_Mount* and ducts as shown in the original Mantis repo. Note that this mod is compatible with the *sensorized_hotend_mount* [link].
+- follow assembly instructions on the original Mantis repo, just replacing the carriage with the LGX_carriage. Note that this mod is compatible with the *sensorized_hotend_mount* [link].
 - Test fit a piece of bowden tube in central hole of the *adapter_plate*. If needed use a 4mm drill bit to enlarge the slot.
 - Fix the LGX Lite to the mounting plate using from 2 to 4 bolts. I use 4, but if you're chasing the grams feel free to experiment with less.
 - Insert bowden tube into the slot and push it firmly in place. Cut flush the tube to the adapter if using the *sensorized hotend mount* mod. Leave a bit of extra if using standard hotend mount.
