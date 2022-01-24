@@ -4,7 +4,7 @@ User needs to print and replace just the Hotend_Mount piece, the rest of toolhea
 Currently just the Dragon one is available, as it's the only hotend I currently own. Feel free to grab the CAD and adapt the mod to other tools.
 
 ## BOM
-- 1 microswitch (quality shouldn't matter much, I'm using with success a cheapo one from a no name Amazon pack, use what you have).
+- 1 microswitch (quality shouldn't matter much, I'm using a cheapo one from a no name Amazon pack, use what you have).
 - 2 self tapping M2x8 or M2x10 screws. 
 - a 7 mm steel ball (as long as the diameter is fairly consistent any source or type will do. Search tag "decorative work" should return plenty of results for assortments boxes on Amazon.
 
