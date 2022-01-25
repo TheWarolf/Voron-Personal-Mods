@@ -9,7 +9,7 @@ Currently just the Dragon one is available, as it's the only hotend I currently 
 - a 7 mm steel ball (as long as the diameter is fairly consistent any source or type will do. Search tag "decorative work" should return plenty of results for assortments boxes on Amazon.
 
 ## Printing Tips
-Printing shouldn't be too difficult on a decently calibrated printer. 
+Printing shouldn't be too difficult on a decently calibrated printer. Use standard Voron reccomendations.
 
 Bridging near the hotend fan mount is not critical, nothing is mating to that surface. In case of some stray filaments dangling, you can remove them with a cutter.
 
