@@ -25,12 +25,14 @@ Bridging near the hotend fan mount is not critical, nothing is mating to that su
 If that's not the case you can try to slightly enlarge the ball slot with a small, pointy tool (like an allen key) or file.
 If this is still not enough, try to print the housing with lower EM.
 - Cut or bend the switch NC pin (opposite to the lever hinge) and slide in the switch in the slot. Secure it with a M2 screw, but **be gentle while screwing, as there's an high risk of splitting the part if layer adhesion is not optimal**. 
+Do not fully tighten the switch, it needs to be firm but able to slightly pivot around the screw.
 
 ![Zoomed-in switch](./Images/Switch.jpg)
 
 ![Mounted Switch](./Images/Install.jpg)
 
-Do not fully tighten the switch, it needs to be firm but able to slightly pivot around the screw.
+
 - Screw the other M2 from the front. 
 You should use this screw to tweak sensor "sensitivity" to filament presence: insert a piece of filament in the channel and hunt for the "click" sound on the switch, adjust screw if needed (adjustment can be made also when toolhead is fully mounted).
 - Due to space constraints, bowden tube on the extruder needs to be cut flush. A ligth chamfer on the inside of the tube and on the filament entrance in the hotend mount is recommended.
+- Assemble the rest of the toolhead normally. **Note that, in order to make extruder securing stronger, heatset inserts for extruder mounting are meant to be inserted from below**.
