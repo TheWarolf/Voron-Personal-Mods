@@ -3,6 +3,12 @@ This is an attempt to add a filament sensor between extruder gears and hotend fo
 User needs to print and replace just the Hotend_Mount piece, the rest of toolhead assembly is done following original procedure shown in Mantis [repo](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015).
 Currently just the Dragon one is available, as it's the only hotend I currently own. Feel free to grab the CAD and adapt the mod to other tools.
 
+![Cutout View](./Images/SensorizedCutout.PNG)
+
+
+## Important note
+This is a personal mod, and it's currently tested just on my rig. Consider it as a prototype, some tinkering may be required.
+
 ## BOM
 - 1 microswitch (quality shouldn't matter much, I'm using a cheapo one from a no name Amazon pack, use what you have).
 - 2 self tapping M2x8 or M2x10 screws. 
@@ -19,6 +25,11 @@ Bridging near the hotend fan mount is not critical, nothing is mating to that su
 If that's not the case you can try to slightly enlarge the ball slot with a small, pointy tool (like an allen key) or file.
 If this is still not enough, try to print the housing with lower EM.
 - Cut or bend the switch NC pin (opposite to the lever hinge) and slide in the switch in the slot. Secure it with a M2 screw, but **be gentle while screwing, as there's an high risk of splitting the part if layer adhesion is not optimal**. 
+
+![Zoomed-in switch](./Images/Switch.jpg)
+
+![Mounted Switch](./Images/Install.jpg)
+
 Do not fully tighten the switch, it needs to be firm but able to slightly pivot around the screw.
 - Screw the other M2 from the front. 
 You should use this screw to tweak sensor "sensitivity" to filament presence: insert a piece of filament in the channel and hunt for the "click" sound on the switch, adjust screw if needed (adjustment can be made also when toolhead is fully mounted).
