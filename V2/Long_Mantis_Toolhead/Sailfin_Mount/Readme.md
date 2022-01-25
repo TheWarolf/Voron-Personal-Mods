@@ -1,4 +1,4 @@
-This is a mod to allow for mounting of Sailfin extruder on a regular Mantis toolhead.
+This is a mod to allow for mounting of Sailfin extruder on a regular Mantis toolhead. **(Repo is WIP)**
 
 ## Prints needed
 - *sailfin_carriage.stl*
