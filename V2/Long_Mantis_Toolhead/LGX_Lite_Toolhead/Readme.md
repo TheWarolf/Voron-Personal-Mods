@@ -19,10 +19,10 @@ Note that this mod is compatible with my other mod of sensorized hotend mount. I
 - Fix the LGX Lite to the mounting plate using from 2 to 4 M3x8 bolts. I use 4, but if you're chasing the grams feel free to experiment with less.
 - Insert bowden tube into the slot and push it firmly in place. Cut flush the tube to the adapter if using the *sensorized_hotend_mount* mod. Leave a bit of extra if using standard hotend mount.
 
-![Adapter_Plate](/Images/MountignPlate.jpg)
+![Adapter_Plate](./Images/MountignPlate.jpg)
 
 - Put the LGX with the adapter on the hotend mount and secure the plate with two M3x10. **TIP:** before tigthening fully the bolts, slide into the whole carriage assembly a piece of filament. This can help in aligning the filament path.
 - Secure the strain relief to the carriage with 2 M3x8 bolts. Be careful not to overtighten or putting too much stress on the piece, as it can be quite fragile, depending on your layer adhesion.
 - Route wires as you prefer and secure them with zip ties.
 
-![Rats nest](/Images/AssembledToolhead.jpg)
+![Rats nest](./Images/AssembledToolhead.jpg)
