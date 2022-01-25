@@ -1,6 +1,6 @@
 This is a rework of Mantis toolhead to use LGX Lite extruder.
 
-![CAD](/Images/Assembly.PNG)
+![CAD](./Images/Assembly.PNG)
 
 
 ## BOM (in addition to normal Mantis BOM)
