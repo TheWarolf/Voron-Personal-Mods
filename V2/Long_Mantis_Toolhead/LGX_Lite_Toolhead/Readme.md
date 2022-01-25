@@ -11,6 +11,7 @@ This is a rework of Mantis toolhead to use LGX Lite extruder.
 - *LGX_Lite_Carriage.stl* or *LGX_Lite_Carriage_Single_Magnet.stl* 
 - *LGX_Lite_Adapter_Plate.stl*
 - *LGX_Lite_Strain_Relief_Threaded.stl* or *LGX_Lite_Strain_Relief_No_Thread.stl*
+
 Note that this mod is compatible with my other mod of sensorized hotend mount. If you want to use it, just print *LGX_Lite_Sensorized_Hotend_Mount.stl* and follow instructions [here](https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead/Sensorized_Hotend_Mount).
 
 ## Streamlined assembly instructions
