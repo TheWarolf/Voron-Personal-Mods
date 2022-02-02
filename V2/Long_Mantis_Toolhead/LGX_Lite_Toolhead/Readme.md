@@ -5,6 +5,7 @@ This is a rework of Mantis toolhead to use LGX Lite extruder.
 
 ## Important note
 This is a personal mod, and it's currently tested just on my rig. Consider it as a prototype, some tinkering may be required.
+This mod is based on the MGN12 version of the mantis, as my machine currently uses that.
 
 ## BOM (in addition to normal Mantis BOM)
 - 4 to 6 M3x8 bolts 
