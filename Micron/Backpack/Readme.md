@@ -28,5 +28,7 @@ The AC inlet element will also act like a panel clip, so it's a good idea to hav
 - Place *Walls_Bottom_Half_x1.stl* and *Walls_Top_Half_x1.stl* on the panel and secure them to frame
 - Glue magnets in place and attach the *Cover_Plate_x1.stl*
 
-![Real thing closed](./Images/Real_Backpack.jpg|width=100px)
-![Real thing open](./Images/Real_Backpack2.jpg)
+<img src=./Images/Real_Backpack.jpg width="300">
+
+<img src=./Images/Real_Backpack2.jpg width="300">
+
